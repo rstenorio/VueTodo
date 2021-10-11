@@ -1,7 +1,9 @@
 <template>
   <div>
     <v-row 
-        justify="end"> 
+        
+        class="mt-1"
+        justify="center"> 
       <v-btn 
         depressed 
         color="primary"> Completati </v-btn>
